@@ -1,0 +1,14 @@
+ Frameworks
+- Microsoft.AspNetCore.App
+- Microsoft.NETCore.App
+
+ NuGet Packages
+- EPPlus (4.5.3.3)
+- FluentAssertions (8.2.0)
+- iText7 (7.2.5)
+- Microsoft.Data.SqlClient (6.0.1)
+- Microsoft.EntityFrameworkCore.SqlServer (8.0.10)
+- Microsoft.EntityFrameworkCore.Tools (8.0.10)
+- Npgsql (9.0.3)
+- Npgsql.EntityFrameworkCore.PostgreSQL (9.0.4)
+- System.Security.Permissions (9.0.3)
