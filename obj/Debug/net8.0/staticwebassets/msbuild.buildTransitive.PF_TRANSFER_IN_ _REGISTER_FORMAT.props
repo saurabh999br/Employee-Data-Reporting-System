@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PF_TRANSFER_IN_ _REGISTER_FORMAT.props" />
+</Project>

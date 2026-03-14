@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PF_TRANSFER_IN_ _REGISTER_FORMAT.props" />
+</Project>
